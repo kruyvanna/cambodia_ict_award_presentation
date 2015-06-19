@@ -1,0 +1,18 @@
+@font-face {
+  font-family: KhmerHand;
+  src: url(KhmerHand.ttf);
+}
+
+@font-face {
+  font-family: KhmerBasic;
+  src: url(KhmerBasic.ttf);
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+	font-family: KhmerBasic, 'Source Sans Pro', Helvetica, sans-serif;
+
+}
+
+p, ul {
+	font-family: KhmerHand, 'Source Sans Pro', Helvetica, sans-serif !important;
+}
