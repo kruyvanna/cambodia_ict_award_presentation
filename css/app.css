@@ -13,6 +13,14 @@
 
 }
 
-p, ul {
+/*p, ul {
 	font-family: KhmerHand, 'Source Sans Pro', Helvetica, sans-serif !important;
+}*/
+
+.no-border {
+	border: none !important;
+}
+
+.uppercase {
+	text-transform: uppercase;
 }
